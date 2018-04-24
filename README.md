@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# YoutubeAPIWithReact
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple React-only web app that uses YouTube API to display videos.
 
-### Getting Started
+Created using helpful tutorial videos at <a href="https://www.udemy.com/">https://www.udemy.com/</a>
 
-There are two methods for getting started with this repo.
+# Get started with this Repo
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+	> git clone https://github.com/Parvis123/youtubeApiWithReact
+	> cd ReduxSimpleStarter
+	> npm install
+	> npm start
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+To view the web app, do the steps above and then visit <a href="http://localhost:8080/">http://localhost:8080/</a> and search for whatever video you'd like to see!
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
